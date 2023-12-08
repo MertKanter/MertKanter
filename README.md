@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kazancı Holding](https://kazanciholding.com.tr/)
 
-- 🌱 I’m currently learning **EF Core 7**
+- 🌱 I’m currently learning **EF Core 8**
 
 - 📫 How to reach me **mertkanter96@gmail.com**
 
